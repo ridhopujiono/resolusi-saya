@@ -4,6 +4,7 @@ RENCANA KONTEN SAYA
   *ES6
   *Framework Javascript
    ^ Vue
+   ^ React
 --Data Struktural
 --PHP Frameworks
   ^ Laravel
