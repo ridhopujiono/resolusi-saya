@@ -3,7 +3,9 @@ RENCANA KONTEN SAYA
 --Javascript
   *ES6
   *Framework Javascript
---Data Struktural
+   ^ Angular
+   ^ React
 --PHP Frameworks
+  ^ Laravel
 --Interview
 --Vlogs
